@@ -1,7 +1,5 @@
 .rodape {
     display: flex;
-    position: absolute;
-    bottom: 0px;
     width: 100%;
     justify-content: center;
     background-color: var(--preto);
